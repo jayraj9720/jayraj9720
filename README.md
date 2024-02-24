@@ -12,7 +12,7 @@
 
 - 📚 I’m currently learning **Solidity language** and how to deploy **smart contracts**
 
-- 🤝 I’m looking forward to collaborate for Final year dissertation **Hackathon**
+- 🤝 I’m looking forward to collaborate for Final year dissertation or for **Hackathon**
 
 - 📧  Reach me at **jayrajjadhavrao@gmail.com**
 
