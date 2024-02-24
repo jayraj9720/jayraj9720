@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Jayraj</h1>
 <h3 align="center">A passionate student diving into the world of development</h3>
 
-- 🎓 I’m currently studying at **University of Exeter** pursuing my **Master’s in Financial Technologies **
+- 🎓 I’m currently studying at **University of Exeter** pursuing my **Master’s in Financial Technologies**
 
 - 🌱 I’ve studied languages and have a foundation in **R, HTML and solidity**
 
