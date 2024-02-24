@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jayraj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently studying at **University of Exeter pursuing my Master’s in Fintech**
+- 🎓 I’m currently studying at **University of Exeter** pursuing my **Master’s in Financial Technologies **
 
 - 🌱 I’ve studied languages and have a foundation in **R, HTML and solidity**
 
-- 👯 I’m currently learning **Solidity language and how to deploy smart contracts**
+- 📚 I’m currently learning **Solidity language** and how to deploy **smart contracts**
 
-- 🤝 I’m looking forward to collaborate for **Hackathon**
+- 🤝 I’m looking forward to collaborate for Final year dissertation **Hackathon**
 
-- 📫 How to reach me **jayrajjadhavrao@gmail.com**
+- 📧  Reach me at **jayrajjadhavrao@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +18,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+
 # 🤩Hi, I'm Jayraj:
 🎓 Pursuing a Master's in FinTech at the University of Exeter.<br><br>💻 Foundational understanding  in languages such as R and Python, and HTML.<br><br>🔗 Currently diving into Solidity to kickstart my journey as a blockchain developer.
 
